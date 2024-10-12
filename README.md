@@ -23,8 +23,8 @@
 
 [![Gmail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kahlediabdelbasit@gmail.com)](mailto:kahlediabdelbasit@gmail.com](https://myaccount.google.com/?utm_source=OGB&utm_medium=app&authuser=0))
 [![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/khaledabdelbasitahmed](https://www.linkedin.com/in/mostafa-sayed-564244176/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLFOAOy8qTymGfRsVJDQWeQ%3D%3D))
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01026861134)
+)](https://www.linkedin.com/in/khaledabdelbasitahmed](https://www.linkedin.com/in/mostafa-sayed-564244176/))
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201026861134)
 
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
